@@ -46,3 +46,9 @@
 * Profit varies by line due to cost differences
 
 * Blue & Yellow contribute maximum revenue
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1aaeffe-1dd4-4361-b183-d3d8f9c6c11c" width="52%" style="margin-right:2%;" />
+  <img src="https://github.com/user-attachments/assets/936f427c-f216-4096-b92b-637db0425f54" width="44%" />
+</p>
+
