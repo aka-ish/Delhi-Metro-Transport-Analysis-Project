@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/8f63271a-734d-4651-bf30-b48bad82543c)
+
 # Delhi Metro Analysis Projec
 
 * A complete end-to-end data analysis project exploring ridership trends, metro line performance, revenue, and passenger behavior using Delhi Metro trip data (150,000+ records).
